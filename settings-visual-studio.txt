@@ -19,8 +19,5 @@
     },
 
     // python
-    "python.defaultInterpreterPath": "python",
-    "[python]": {
-        "editor.formatOnType": true
-    }
+    "python.defaultInterpreterPath": "python"
 }
