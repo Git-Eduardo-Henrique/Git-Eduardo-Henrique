@@ -1,0 +1,26 @@
+{
+    // visual studio 
+    "files.autoSave": "afterDelay",
+    "explorer.compactFolders": false,
+    "editor.minimap.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+
+    // themes
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+
+    // code runner
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.ignoreSelection": true,
+
+    "code-runner.executorMap": {
+        "python": "cls ; python -u",
+    },
+
+    // python
+    "python.defaultInterpreterPath": "python",
+    "[python]": {
+        "editor.formatOnType": true
+    }
+}
